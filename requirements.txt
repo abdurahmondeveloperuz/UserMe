@@ -1,5 +1,5 @@
 aiogram~=2.14
-
 environs~=8.0.0
 googletrans~=3.1.0a0
 requests
+gunicorn
